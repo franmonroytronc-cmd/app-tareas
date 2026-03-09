@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablero EKo y Hogar</title>
+    <!-- Tailwind CSS para los estilos -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- React para la interfaz -->
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+    <!-- Babel para leer el código de React en el navegador -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body class="bg-slate-100">
+    <div id="root"></div>
+
+    <script type="text/babel" data-type="module">
+        // 1. Importar Firebase directamente desde Google
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
+        import { getAuth, signInAnonymously, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
+        import { getFirestore, collection, onSnapshot, addDoc, updateDoc, deleteDoc, doc } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
+
+        // 2. Tu configuración exacta
+        const firebaseConfig = {
+            apiKey: "AIzaSyD6RZyU0MX6rKnhbqh0CEwZSNAcgLXJ56s",
+            authDomain: "web-tareas-app.firebaseapp.com",
+            projectId: "web-tareas-app",
+            storageBucket: "web-tareas-app.firebasestorage.app",
+            messagingSenderId: "668761683189",
+            appId: "1:668761683189:web:b495352f2b9368622681bc"
+        };
+
+        // 3. Inicializar tu base de datos
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+        const db = getFirestore(app);
+
+        const { useState, useEffect } = React;
+
+        function App() {
+            const [tasks, setTasks] = useState([]);
+            const [user, setUser] = useState(null);
+            const [loading, setLoading] = useState(true);
+
+            const [newTaskText, setNewTaskText] = useState('');
+            const [newTaskProject, setNewTaskProject] = useState('EKo');
+            const [newTaskAssignee, setNewTaskAssignee] = useState('Yo');
+            const [filterProject, setFilterProject] = useState('Todos');
+
+            // Iniciar sesión silenciosa
+            useEffect(() => {
+                signInAnonymously(auth);
+                const unsubscribe = onAuthStateChanged(auth, setUser);
+                return () => unsubscribe();
+            }, []);
+
+            // Escuchar la base de datos en tiempo real
+            useEffect(() => {
+                if (!user) return;
+                
+                const tasksRef = collection(db, 'tasks');
+                const unsubscribe = onSnapshot(tasksRef, (snapshot) => {
+                    const tasksData = [];
+                    snapshot.forEach((doc) => {
+                        tasksData.push({ id: doc.id, ...doc.data() });
+                    });
+                    
+                    tasksData.sort((a, b) => b.createdAt - a.createdAt);
+                    setTasks(tasksData);
+                    setLoading(false);
+                }, (error) => {
+                    console.error("Error cargando tareas:", error);
+                    setLoading(false);
+                });
+
+                return () => unsubscribe();
+            }, [user]);
+
+            const handleAddTask = async (e) => {
+                e.preventDefault();
+                if (!newTaskText.trim() || !user) return;
+
+                const newTask = {
+                    text: newTaskText,
+                    project: newTaskProject,
+                    assignee: newTaskAssignee,
+                    status: 'pending',
+                    createdAt: Date.now(),
+                    createdBy: user.uid
+                };
+
+                setNewTaskText(''); 
+                
+                try {
+                    await addDoc(collection(db, 'tasks'), newTask);
+                } catch (error) {
+                    console.error("Error guardando:", error);
+                }
+            };
+
+            const handleDelete = async (id) => {
+                if (!user) return;
+                try {
+                    await deleteDoc(doc(db, 'tasks', id));
+                } catch (error) {
+                    console.error("Error eliminando:", error);
+                }
+            };
+
+            const updateStatus = async (id, newStatus) => {
+                if (!user) return;
+                try {
+                    await updateDoc(doc(db, 'tasks', id), { status: newStatus });
+                } catch (error) {
+                    console.error("Error actualizando:", error);
+                }
+            };
+
+            const filteredTasks = tasks.filter(task => filterProject === 'Todos' ? true : task.project === filterProject);
+            const pendingTasks = filteredTasks.filter(t => t.status === 'pending');
+            const inProgressTasks = filteredTasks.filter(t => t.status === 'in_progress');
+            const completedTasks = filteredTasks.filter(t => t.status === 'completed');
+
+            const getProjectColors = (project) => project === 'EKo' ? 'bg-purple-100 text-purple-700 border-purple-200' : 'bg-teal-100 text-teal-700 border-teal-200';
+            
+            const getAssigneeColors = (assignee) => {
+                switch(assignee) {
+                    case 'Fabiola': return 'bg-pink-100 text-pink-700';
+                    case 'Kari': return 'bg-orange-100 text-orange-700';
+                    default: return 'bg-blue-100 text-blue-700';
+                }
+            };
+
+            const TaskCard = ({ task }) => (
+                <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-200 hover:shadow-md transition-shadow flex flex-col gap-3">
+                    <div className="flex justify-between items-start gap-2">
+                        <p className="text-slate-800 font-medium leading-snug">{task.text}</p>
+                        <button onClick={() => handleDelete(task.id)} className="text-slate-300 hover:text-red-500 transition-colors" title="Eliminar">🗑️</button>
+                    </div>
+                    <div className="flex flex-wrap items-center gap-2 mt-auto">
+                        <span className={`text-xs px-2 py-1 rounded-md border font-medium flex items-center gap-1 ${getProjectColors(task.project)}`}>
+                            {task.project === 'EKo' ? '💼' : '🏠'} {task.project}
+                        </span>
+                        <span className={`text-xs px-2 py-1 rounded-md font-medium flex items-center gap-1 ${getAssigneeColors(task.assignee)}`}>
+                            👤 {task.assignee}
+                        </span>
+                    </div>
+                    <div className="pt-3 mt-1 border-t border-slate-100 flex gap-2">
+                        {task.status !== 'pending' && <button onClick={() => updateStatus(task.id, 'pending')} className="text-xs text-slate-600 hover:text-slate-900 bg-slate-100 px-2 py-1 rounded flex items-center gap-1">⚠️ Pendiente</button>}
+                        {task.status !== 'in_progress' && <button onClick={() => updateStatus(task.id, 'in_progress')} className="text-xs text-blue-600 hover:text-blue-800 bg-blue-50 px-2 py-1 rounded flex items-center gap-1">⏱️ En curso</button>}
+                        {task.status !== 'completed' && <button onClick={() => updateStatus(task.id, 'completed')} className="text-xs text-emerald-600 hover:text-emerald-800 bg-emerald-50 px-2 py-1 rounded flex items-center gap-1">✅ Listo</button>}
+                    </div>
+                </div>
+            );
+
+            if (loading) {
+                return (
+                    <div className="min-h-screen bg-slate-100 flex flex-col items-center justify-center font-sans">
+                        <div className="text-4xl mb-4 animate-bounce">⏳</div>
+                        <p className="text-slate-600 font-medium text-lg">Conectando equipo...</p>
+                    </div>
+                );
+            }
+
+            return (
+                <div className="min-h-screen font-sans text-slate-800 p-4 md:p-8">
+                    <div className="max-w-7xl mx-auto space-y-6">
+                        
+                        <header className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white p-6 rounded-2xl shadow-sm border border-slate-200">
+                            <div>
+                                <h1 className="text-2xl font-bold text-slate-900">Panel de Tareas</h1>
+                                <p className="text-slate-500 text-sm mt-1">Gestión de actividades de EKo y Hogar</p>
+                            </div>
+                            <div className="flex items-center gap-2 bg-slate-100 p-1 rounded-lg">
+                                {['Todos', 'EKo', 'Hogar'].map(proj => (
+                                    <button key={proj} onClick={() => setFilterProject(proj)} className={`px-4 py-2 rounded-md text-sm font-medium transition-colors ${filterProject === proj ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-600 hover:text-slate-900'}`}>{proj}</button>
+                                ))}
+                            </div>
+                        </header>
+
+                        <form onSubmit={handleAddTask} className="bg-white p-4 rounded-xl shadow-sm border border-slate-200 flex flex-col md:flex-row gap-4 items-end">
+                            <div className="flex-1 w-full">
+                                <label className="block text-xs font-medium text-slate-500 mb-1">¿Qué hay que hacer?</label>
+                                <input type="text" value={newTaskText} onChange={(e) => setNewTaskText(e.target.value)} placeholder="Ej. Comprar materiales..." className="w-full p-2.5 bg-slate-50 border border-slate-200 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none" />
+                            </div>
+                            <div className="w-full md:w-48">
+                                <label className="block text-xs font-medium text-slate-500 mb-1">Proyecto</label>
+                                <select value={newTaskProject} onChange={(e) => setNewTaskProject(e.target.value)} className="w-full p-2.5 bg-slate-50 border border-slate-200 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none">
+                                    <option value="EKo">EKo</option>
+                                    <option value="Hogar">Hogar</option>
+                                </select>
+                            </div>
+                            <div className="w-full md:w-48">
+                                <label className="block text-xs font-medium text-slate-500 mb-1">Responsable</label>
+                                <select value={newTaskAssignee} onChange={(e) => setNewTaskAssignee(e.target.value)} className="w-full p-2.5 bg-slate-50 border border-slate-200 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none">
+                                    <option value="Yo">Yo</option>
+                                    <option value="Fabiola">Fabiola</option>
+                                    <option value="Kari">Kari</option>
+                                </select>
+                            </div>
+                            <button type="submit" disabled={!newTaskText.trim()} className="w-full md:w-auto px-6 py-2.5 bg-slate-900 hover:bg-slate-800 disabled:bg-slate-300 text-white font-medium rounded-lg flex items-center justify-center gap-2">
+                                ➕ Agregar
+                            </button>
+                        </form>
+
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-start">
+                            <div className="bg-slate-50/50 p-4 rounded-2xl border border-slate-200/60 flex flex-col gap-4">
+                                <div className="flex items-center justify-between pb-2 border-b border-slate-200">
+                                    <h2 className="font-semibold text-slate-700 flex items-center gap-2">⭕ Por Hacer</h2>
+                                    <span className="bg-slate-200 text-slate-600 text-xs py-1 px-2 rounded-full font-medium">{pendingTasks.length}</span>
+                                </div>
+                                {pendingTasks.map(task => <TaskCard key={task.id} task={task} />)}
+                            </div>
+
+                            <div className="bg-blue-50/30 p-4 rounded-2xl border border-blue-100 flex flex-col gap-4">
+                                <div className="flex items-center justify-between pb-2 border-b border-blue-100">
+                                    <h2 className="font-semibold text-blue-800 flex items-center gap-2">⏱️ En Proceso</h2>
+                                    <span className="bg-blue-200 text-blue-800 text-xs py-1 px-2 rounded-full font-medium">{inProgressTasks.length}</span>
+                                </div>
+                                {inProgressTasks.map(task => <TaskCard key={task.id} task={task} />)}
+                            </div>
+
+                            <div className="bg-emerald-50/30 p-4 rounded-2xl border border-emerald-100 flex flex-col gap-4">
+                                <div className="flex items-center justify-between pb-2 border-b border-emerald-100">
+                                    <h2 className="font-semibold text-emerald-800 flex items-center gap-2">✅ Completadas</h2>
+                                    <span className="bg-emerald-200 text-emerald-800 text-xs py-1 px-2 rounded-full font-medium">{completedTasks.length}</span>
+                                </div>
+                                {completedTasks.map(task => <TaskCard key={task.id} task={task} />)}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            );
+        }
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>
