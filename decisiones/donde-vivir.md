@@ -152,13 +152,94 @@ Puntaje 1-5 por criterio × peso, normalizado a /100. **El número orienta, no d
 - **España es el mejor "puente a Europa"**: junta vibra europea + #1 tolerancia + perros fáciles + mismo idioma; su único costo real es distancia/huso.
 - Los **paraísos asiáticos** (Tailandia, Bali, Vietnam) seducen por vibra y costo, pero la distancia con Chile los descalifica para esta etapa.
 - **Si el experimento se vuelve definitivo, España gana un punto enorme:** ciudadanía UE en **2 años** + doble nacionalidad (pasaporte europeo = llave para moverse por toda la UE después). Ningún otro candidato ofrece eso tan rápido. MERCOSUR (Brasil/Uruguay) da residencia fácil pero la ciudadanía es más lenta.
-- **Pendiente verificar la raza de Vitto y Rosa** (clave para España-PPP, y descarta Malasia y Dubái si son razas prohibidas).
+
+### 🐕 Razas confirmadas — Rosa cierra el tablero
+- **Vitto:** kiltro (mezcla) → sin problema en ningún destino.
+- **Rosa:** **pitbull × bóxer** → raza tipo *pit bull*, que es **PROHIBIDA para importar** en varios candidatos. Esto convierte en **inviables**, solo por ella:
+  - 🇦🇪 **Dubái** — pitbull y bóxer ambos en lista prohibida. **Descartado.**
+  - 🇹🇭 **Tailandia** — pitbull/Am. Staffordshire prohibidos. **Descartado.**
+  - 🇲🇾 **Malasia** — pitbull en lista de baneo total. **Descartado.**
+  - 🇦🇺 **Australia** — el pit bull terrier está en la lista de importación **prohibida** (aparte del problema de país no aprobado). **Doblemente descartado.**
+- **Dónde SÍ puede ir Rosa:**
+  - 🇲🇽🇧🇷🇨🇷🇺🇾 **América** — sin prohibición de importación de pitbull (puede haber reglas locales de tenencia, pero entra). ✅
+  - 🇪🇸 **España** — entra sin problema; será **PPP** (perro potencialmente peligroso) → licencia, seguro de responsabilidad civil y **bozal + correa en vía pública**. Manejable, pero es una obligación diaria a considerar. ⚠️
+  - 🇵🇹 **Portugal** — similar a España (registro de razas peligrosas, bozal en público). ⚠️
+  - 🇻🇳 **Vietnam** — sin baneo explícito de pitbull (pero la visa sigue siendo el problema).
+- **Conclusión:** Rosa reduce el universo real a **América (libre) + España/Portugal (con reglas PPP)**. Justo el Tier 1. El tablero se simplificó solo.
 
 ---
 
-## 7. Próximos pasos
-- [ ] Confirmar raza/categoría de Vitto y Rosa (impacta España y descarta Malasia si aplica)
-- [ ] Elegir 2-3 finalistas para profundizar (¿México + Brasil + España?)
-- [ ] Pensar en formato "muestreo": viajes de 1-3 meses antes de instalarse
+## 7. Ciudades / zonas recomendadas (Top 6)
+
+Filtro: vibra playera + relajada, seguro, dog-friendly (Rosa PPP), comunidad, internet.
+
+### 🇲🇽 México
+> Nota: México es enorme y disparejo en seguridad. La regla = elegir **estado/ciudad**, no "México". Evitar focos de violencia (partes de Guerrero, Tamaulipas, Sinaloa, Michoacán, Zacatecas).
+- **Mérida (Yucatán)** ⭐ — **la ciudad grande más segura de México** y de las más seguras de LatAm. Cultura riquísima, colonial, gastronomía top, a 30 min de playa (Progreso) y cenotes. Lo mejor si priorizas seguridad + cultura. Calor fuerte.
+- **Puerto Escondido (Oaxaca)** ⭐ — Pacífico, surf, bohemio, relajado, relativamente seguro, más barato. Encaja perfecto con tu vibra.
+- **Sayulita / San Pancho (Nayarit)** — pueblos de playa con encanto, surf, muy pet-friendly. Sayulita turístico; San Pancho más tranquilo.
+- **La Paz (Baja California Sur)** — Mar de Cortés, de los estados más seguros, hermoso y relajado, ideal para perros.
+- *Para tu plan de idiomas:* México es español (cómodo, no desafío) — úsalo como base segura, no como inmersión de idioma.
+
+### 🇧🇷 Brasil — Florianópolis
+- **Campeche** ⭐ — playa, escena nómada creciente, relajado, ideal perros.
+- **Lagoa da Conceição** — laguna + hub nómada, vida social, coworkings.
+- **Jurerê** — más premium/familiar. Floripa = capital más segura de Brasil.
+- *Idiomas:* **portugués** → tu inmersión natural. Doble win: destino top + idioma nuevo.
+
+### 🇪🇸 España
+- **Las Palmas de Gran Canaria (Canarias)** ⭐ — **mejor clima del mundo para perros todo el año** ("primavera eterna"), playa urbana (Las Canteras), gran comunidad internacional, surf, costo menor que península.
+- **Málaga (Costa del Sol)** — la más soleada y seca de la península, muy dog-friendly, gran calidad de vida, buen aeropuerto (directo a Madrid).
+- **Valencia** — la mejor relación calidad/precio, playa + ciudad, bike-friendly, #1 en rankings de expats. Verano húmedo (lo menos cómodo para Rosa).
+- *Recordar:* Rosa = PPP (bozal/licencia/seguro). *Idiomas:* podrías sumar inglés en la comunidad internacional de Canarias.
+
+### 🇨🇷 Costa Rica
+- **Nosara (Nicoya)** ⭐ — wellness/yoga/surf, seguro, hermoso, comunidad expat sólida.
+- **Tamarindo (Guanacaste)** — más movido, playa, servicios, escena internacional.
+- **Santa Teresa** — surf bohemio, muy lindo pero más aislado/caro.
+- **Atenas / Valle Central** — "mejor clima del mundo", expat-friendly, pero sin playa.
+
+### 🇺🇾 Uruguay
+- **Montevideo — Pocitos / Punta Carretas** ⭐ — base todo el año, ciudad + playa, seguro, mejores servicios.
+- **La Pedrera / La Paloma (Rocha)** — surf bohemio, relajado (estacional).
+- **Punta del Este / La Barra** — glam de playa, pero se vacía fuera de temporada.
+
+### 🇵🇹 Portugal
+- **Cascais (Gran Lisboa)** ⭐ — costa, surf (Guincho), dog-friendly, a 30 min de Lisboa y su conectividad.
+- **Lagos (Algarve)** — playa, surf, joven, gran escena expat; el sur más soleado.
+- **Tavira (Algarve)** — más auténtico y tranquilo.
+- *Idiomas:* portugués (europeo).
+
+---
+
+## 8. Perfil Viajero — base (Parral/EKo) + órbita
+
+> Objetivo: poder viajar por negocio/placer a lugares hermosos y **volver siempre al puerto**. No es "irse"; es construir una vida de **base + órbita**.
+
+### Los 6 pilares a construir
+1. **Motor financiero portátil** — ingresos en divisa fuerte (USD/EUR) desacoplados de tu presencia física: EKo operando sin ti, media buying, consultoría. + colchón de "libertad" (6-12 meses de gastos). Geoarbitraje: ganar fuerte, gastar en destinos accesibles.
+2. **EKo "auto-gestionado" (el prerequisito #1)** — gerencia/operaciones delegadas, procesos documentados, dashboards remotos. Mientras EKo te necesite físicamente en Parral, no hay órbita. *Este es el verdadero trabajo de los próximos 1-3 años.*
+3. **Sistema de cuidado de los perros** — Vitto (mayor) y Rosa atan los viajes largos. Para esta etapa: red de confianza en Parral (familia, cuidador de planta) para viajes de 1-4 semanas; mudanzas/estadías largas (1-3 meses) solo a destinos donde puedan ir (América / España-Portugal).
+4. **Infraestructura de movilidad** — pasaporte chileno (ya fuerte: Schengen sin visa, etc.); banca multimoneda (Wise), seguro de salud/viaje internacional, eSIM, membresías de aerolínea/lounge. Upgrade futuro: **segunda residencia/nacionalidad** (España a 2 años) = salto de nivel en libertad.
+5. **Identidad profesional / red** — marca personal que sostenga la consultoría; aprovechar **Worley (50 países)** como red global de anclas sociales/profesionales en cada destino; comunidades de nómadas.
+6. **Ritmo de vida diseñado** — definir un patrón explícito en vez de improvisar. Ej.: **"2/3 del año en base, 1/3 en órbita"**, o por estaciones (verano chileno en Parral con EKo a full; escapar al hemisferio norte en invierno chileno).
+
+### Cómo encaja tu deseo de aprender idiomas
+- **Base segura (español):** México/LatAm = bajo estrés, alta cultura.
+- **Inmersión por destino:** un capítulo en **Brasil/Portugal** = portugués; stints/viajes a destinos anglo (aunque no vivas ahí por Rosa) = inglés.
+- El "perfil viajero" convierte los idiomas en un *subproducto* de la órbita, no en una clase aparte.
+
+### Secuencia sugerida (borrador)
+- **Año 0-2:** construir motor financiero + hacer EKo auto-gestionado. Viajes cortos de placer (probar lugares). Definir cuidado de perros.
+- **Año 2-4:** primer experimento de base alterna en **América** (México/Brasil) 1-3 meses, con los perros. Reversible.
+- **Año 4+:** decidir si el experimento se vuelve definitivo; evaluar **España** (carta ciudadanía UE) como capítulo europeo.
+
+---
+
+## 9. Próximos pasos
+- [x] Confirmar raza de Vitto (kiltro) y Rosa (pitbull×bóxer → cierra Dubái/Tailandia/Malasia/Australia)
+- [ ] Elegir 1-2 finalistas para profundizar a nivel ciudad (¿Mérida/Pto. Escondido? ¿Floripa? ¿Las Palmas?)
+- [ ] Empezar el pilar #2: plan para que EKo opere sin ti (lo que de verdad desbloquea todo)
+- [ ] Diseñar el sistema de cuidado de perros para viajes
 - [ ] Conversar el tema Kari cuando esté listo
 - [ ] Releer este doc en 6-12 meses (las reglas de visa/perros cambian)
