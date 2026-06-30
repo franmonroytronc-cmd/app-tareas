@@ -210,6 +210,31 @@ Filtro: vibra playera + relajada, seguro, dog-friendly (Rosa PPP), comunidad, in
 - **Tavira (Algarve)** — más auténtico y tranquilo.
 - *Idiomas:* portugués (europeo).
 
+### Presupuestos mensuales estimados (1 persona + 2 perros)
+
+Nivel "cómodo que funciona y es lindo" (no mochilero, no lujo). USD/mes. Incluye una línea de **perros** (comida 2 grandes + vet prorrateado; en España/Portugal + seguro PPP de Rosa). **Estimaciones 2025-26 — pedir cotizaciones reales al decidir.**
+
+| Ciudad | Arriendo (zona linda, dog-friendly) | Total cómodo/mes | Notas |
+|--------|:---:|:---:|-------|
+| 🇧🇷 **Floripa** (Campeche/Lagoa) | $500-800 | **$1.400-2.100** | El más barato. + portugués gratis. |
+| 🇲🇽 **Mérida** | $600-900 | **$1.500-2.200** | Ojo: aire acondicionado sube la luz (calor). |
+| 🇲🇽 **Puerto Escondido** | $700-1.100 | **$1.500-2.300** | Arriendos al alza; Starlink común. |
+| 🇪🇸 **Valencia** | $850-1.250 | **$1.700-2.400** | La España más barata; verano húmedo. |
+| 🇺🇾 **Montevideo** (Pocitos) | $800-1.200 | **$1.800-2.600** | Comida y servicios caros para LatAm. |
+| 🇪🇸 **Las Palmas** (Canarias) ⭐ | $1.000-1.450 | **$1.900-2.700** | Mejor clima del año para perros. |
+| 🇵🇹 **Lagos** (Algarve) | $850-1.400 | **$1.700-2.500** | Más barato que Lisboa/Cascais. |
+| 🇪🇸 **Málaga** | $1.050-1.500 | **$1.900-2.700** | La más cara de las 3 españolas. |
+| 🇵🇹 **Cascais/Lisboa** | $1.150-1.700 | **$2.100-3.000** | Zona cara de Portugal; mucha oferta. |
+| 🇨🇷 **Nosara/Tamarindo** | $900-1.600 | **$2.000-3.200** | El más caro: todo importado, 4x4 casi necesario. |
+
+**Desglose tipo (ejemplo Las Palmas, ~$2.300):** arriendo $1.150 · servicios+internet $140 · mercado $350 · salir/ocio $300 · transporte $60 · salud (privada/top-up) $90 · **perros $130** · varios $80.
+
+**Notas transversales:**
+- **En pareja:** suma ~30-45% (arriendo mayor + comida), no el doble. Ej.: Floripa pareja ~$2.000-2.800; Las Palmas pareja ~$2.800-3.700.
+- **Costo único de traslado de perros (aparte):** ~**USD 3.000-10.000 por los dos** según destino (flete cargo + guacales IATA + trámites). América y UE en el rango bajo; nunca fue Australia.
+- **Geoarbitraje:** ganando en USD/EUR (EKo + afiliados + consultoría), en LatAm puedes **vivir cómodo con ~$1.500-2.300 y ahorrar agresivamente** mientras construyes el motor. España cuesta más, pero "compra" el pasaporte UE.
+- **Regla de pulgar de libertad:** si tu sistema de ingresos te da **~$2.500-3.000/mes estables**, cualquiera de estos destinos es holgado en solitario; con **~$4.000+** es holgado en pareja y con ahorro.
+
 ---
 
 ## 8. Perfil Viajero — base (Parral/EKo) + órbita
