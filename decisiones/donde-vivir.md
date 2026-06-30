@@ -39,7 +39,7 @@ Orden de prioridad declarado: **1 > 2 > 8 > 4 > 7 > 5 > 3 > 6**
 
 | Peso | Criterio | Qué significa para mí |
 |------|----------|-----------------------|
-| 22 | **Vibra / estilo de vida** | Playa, aire libre, sin prejuicios, "cosas que funcionan y son lindas" |
+| 22 | **Vibra / estilo de vida** | Playa + **montaña/aventura** (montañismo, deporte, parques nacionales — tiene cursos de guía), aire libre, sin prejuicios, "cosas que funcionan y son lindas". **Perfil equilibrado: relax Y aventura.** |
 | 18 | **Entrar con 2 perros grandes** | Qué tan fácil/factible es llevar a Vitto y Rosa |
 | 14 | **Idioma / cultura / comunidad** | Qué tan fácil integrarme y hacer comunidad |
 | 12 | **Costo de vida vs. calidad de vida** | Que el dinero rinda en bienestar real |
@@ -147,6 +147,8 @@ Puntaje 1-5 por criterio × peso, normalizado a /100. **El número orienta, no d
 ## 6. Hallazgos / aprendizajes acumulados
 
 - Mi sueño no es "Australia", es **libertad/opcionalidad**; Australia es una muestra… y en el scorecard queda **#10**, no por mala, sino porque choca con mis no-negociables (perros + huso con Chile).
+- **Soy equilibrado: playa/comodidad + montaña/aventura** (montañismo, deporte, parques, guía de montaña). Esto tiene una consecuencia enorme: **Chile/Parral ya alimenta mi lado aventurero como pocos lugares del mundo** (Andes, volcanes, Patagonia, parques). Es decir, mi *base* ya me da la montaña; la *órbita* solo necesita darme la playa/trópico/cultura que me falta. → Refuerza el modelo "base en Chile + muestreo afuera", y relativiza la urgencia de mudarme: gran parte de lo que amo ya lo tengo en casa.
+- La aventura reordena el muestreo: **Perú, Argentina, Ecuador y Bolivia suben fuerte** (Andes/volcanes/Patagonia de clase mundial). Bolivia deja de ser "incómoda" y pasa a ser un destino-joya para mi lado montañista.
 - **El factor perros fue el mayor discriminador:** hundió a Australia y Bali casi por sí solo.
 - El **Tier 1 es "aburrido pero correcto"**: América + España. Ganan en lo que de verdad pesa.
 - **España es el mejor "puente a Europa"**: junta vibra europea + #1 tolerancia + perros fáciles + mismo idioma; su único costo real es distancia/huso.
@@ -258,6 +260,20 @@ La jugada más inteligente para arrancar: viajes de **~3 semanas** a destinos li
 
 > Idea: elegir **3-4 lugares "ricos"** como refugios recurrentes para escaparte temporadas. Eso ya *es* el perfil viajero, sin mudarte.
 
+### Plan Fase 0 concreto — 4 viajes 2026 (~3 semanas c/u, perros en base)
+Diseñados para alimentar tu lado **playero Y aventurero**, alineados a la mejor época:
+
+| Viaje | Combina | Mejor época | Presupuesto (vuelo + 3 sem) |
+|-------|---------|-------------|:---:|
+| 🇵🇪 **Perú** — Lima + Cusco/Valle Sagrado + **Huaraz (Cordillera Blanca)** | Gastronomía + cultura + **alta montaña** | May-Sep (seca) | ~$2.000-3.000 |
+| 🇦🇷 **Argentina** — **Patagonia (El Chaltén/Fitz Roy)** + Bariloche + Mendoza | **Trekking clase mundial** + lagos + vino | Dic-Mar | ~$2.000-3.000 |
+| 🇨🇴 **Colombia** — Medellín + Cartagena + **Sierra Nevada/Tayrona** | Playa caribe + nómada + selva/montaña | Dic-Mar o Jul-Ago | ~$2.000-2.800 |
+| 🇪🇨 **Ecuador** — Quito + **Cotopaxi/Chimborazo** + Baños + costa | **Volcanes/montañismo** + aventura + playa | Jun-Sep | ~$2.000-3.500 |
+
+- **Alt aventura pura:** 🇧🇴 Bolivia (Huayna Potosí 6.088m + Uyuni), ~$1.200-2.000 — el más barato y épico para tu lado montañista.
+- **Costo total año de muestreo:** ~**$8-11k** = trivial frente a tu ingreso, altísimo retorno en autoconocimiento.
+- **Regla:** deja la base (EKo + perros) cubierta antes de cada salida; vuelve, procesa, decide. Cada viaje es un test de "¿me veo viviendo acá una temporada?".
+
 ### Los 6 pilares a construir
 1. **Motor financiero portátil** — ingresos en divisa fuerte (USD/EUR) desacoplados de tu presencia física: EKo operando sin ti, media buying, consultoría. + colchón de "libertad" (6-12 meses de gastos). Geoarbitraje: ganar fuerte, gastar en destinos accesibles.
 2. **EKo "auto-gestionado" (el prerequisito #1)** — gerencia/operaciones delegadas, procesos documentados, dashboards remotos. Mientras EKo te necesite físicamente en Parral, no hay órbita. *Este es el verdadero trabajo de los próximos 1-3 años.*
@@ -331,6 +347,24 @@ Asumiendo inversión diversificada (fondos indexados globales) y la **regla del 
 3. **Separa cash flow de patrimonio.** Parte del excedente va a un **fondo de libertad** (inversión) que genere ingreso pasivo. El lujo sostenible es el que pagan tus **ingresos recurrentes sin tocar el ahorro** — y el lujo definitivo es no depender de seguir moliendo.
 4. **Geoarbitraje del lujo:** vive donde el lujo es barato, gana en USD/EUR.
 5. **Define tu "lifestyle ceiling" consciente** — un tope de gasto elegido a propósito, para que el excedente engorde libertad y no se evapore.
+
+---
+
+### Plan financiero — construir el colchón (cascada de prioridades)
+Orden en que conviene poner cada peso (de abajo hacia arriba, llenas un nivel antes del siguiente):
+
+1. **Fondo de emergencia** — 6 meses de gastos base, líquido y seguro (cuenta de alto rendimiento / money market en USD). Es el piso que te deja invertir tranquilo sin pánico.
+2. **Matar deuda cara** (consumo/tarjetas >10-15%) si existe — rinde más que cualquier inversión.
+3. **Definir tasa de ahorro** — la métrica reina. Con Worley cubriendo la vida y los motores portátiles creciendo, apunta a **ahorrar/invertir 40-60%+**. Meta concreta: **~$3-4k/mes**.
+4. **Automatizar ("págate primero")** — transferencia automática a inversión el día después del pago. Que no dependa de tu voluntad mensual.
+5. **Dónde invertir el núcleo** — simple y global: **ETF de acciones mundial, bajo costo, acumulativo** (ej. tipo VWRA/VT). 80-90% acciones globales + 10-20% bonos/colchón a medida que te acercas a la meta. Mantén buena parte en **USD/global** para diversificar del peso chileno.
+   - *Vehículos en Chile a investigar:* brokers locales (Fintual, Racional, Vector) para empezar simple; **Interactive Brokers** para ETFs globales en USD (lo más potente/barato a largo plazo); **APV** para una porción con beneficio tributario (ojo: menos líquido, pensado para jubilación).
+6. **EKo = patrimonio aparte** — el valor de empresa de EKo es colchón también (algún día se puede vender). No cuentes solo el cash; cuenta el activo-negocio que estás construyendo.
+7. **Lifestyle ceiling** — al subir el ingreso, congela el gasto. La **brecha** (ingreso − gasto) es lo que compra libertad, no el ingreso.
+
+> ⚠️ No soy asesor financiero licenciado: esto es un marco, no recomendación regulada. Valida montos/vehículos y considera un asesor *fee-only* (que cobra por hora, no por comisión) antes de mover capital grande.
+
+**Cómo el plan acelera la meta:** ahorrando $45k/año llegas a semi-FI (~$800k) a los ~44-45. Si en la "fase ardua" de los 30 empujas a **$55-60k/año**, recortas **2-4 años**. Y cada dólar de gasto base que bajas (geoarbitraje) baja tu meta total 25× ese monto.
 
 ---
 
