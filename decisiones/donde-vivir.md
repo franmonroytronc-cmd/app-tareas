@@ -241,6 +241,23 @@ Nivel "cómodo que funciona y es lindo" (no mochilero, no lujo). USD/mes. Incluy
 
 > Objetivo: poder viajar por negocio/placer a lugares hermosos y **volver siempre al puerto**. No es "irse"; es construir una vida de **base + órbita**.
 
+### Fase 0 — Muestreo de viajes (empieza YA, sin mover a los perros)
+La jugada más inteligente para arrancar: viajes de **~3 semanas** a destinos lindos de América, **volviendo siempre a la base**. Ventajas:
+- **Sin trámites de perros** (Vitto y Rosa se quedan con red de confianza en Parral).
+- **Sin visa** (Chile entra sin visa en casi toda América).
+- **Barato, reversible, bajo compromiso.** Es el *on-ramp* del perfil viajero.
+- Te deja **descubrir qué te gusta** antes de comprometer una base — y quizás descubrir que "Parral + perfil viajero" ya te satisface sin mudarte.
+
+**Shortlist curada (belleza + cultura + relajo, según tu perfil):**
+- 🇵🇪 **Perú** ⭐ — Lima (gastronomía de clase mundial) + Cusco/Valle Sagrado/Machu Picchu. Top absoluto, barato.
+- 🇨🇴 **Colombia** ⭐ — Medellín ("primavera eterna", hub nómada) + Cartagena (Caribe) + Eje Cafetero.
+- 🇪🇨 **Ecuador** — Cuenca (colonial, comunidad expat) + costa/Galápagos. Usa USD (cómodo).
+- 🇧🇷🏝️ **Playa** — Floripa, o Caribe (Cartagena, San Andrés).
+- 🇧🇴 **Bolivia** (add-on aventura) — Salar de Uyuni: espectacular y baratísimo, pero "funciona" menos (rústico, altura).
+- Otros: 🇦🇷 Argentina (Patagonia/BA/Mendoza, hoy barata), 🇬🇹 Guatemala (Atitlán/Antigua), 🇵🇦 Panamá.
+
+> Idea: elegir **3-4 lugares "ricos"** como refugios recurrentes para escaparte temporadas. Eso ya *es* el perfil viajero, sin mudarte.
+
 ### Los 6 pilares a construir
 1. **Motor financiero portátil** — ingresos en divisa fuerte (USD/EUR) desacoplados de tu presencia física: EKo operando sin ti, media buying, consultoría. + colchón de "libertad" (6-12 meses de gastos). Geoarbitraje: ganar fuerte, gastar en destinos accesibles.
 2. **EKo "auto-gestionado" (el prerequisito #1)** — gerencia/operaciones delegadas, procesos documentados, dashboards remotos. Mientras EKo te necesite físicamente en Parral, no hay órbita. *Este es el verdadero trabajo de los próximos 1-3 años.*
@@ -291,6 +308,22 @@ El lujo cuesta 2-3× menos en LatAm/Asia que en Europa:
 | Masaje 1h | $25-40 | $70-120 |
 | Cena fina (1 pers.) | $25-50 | $60-120 |
 → **Basarte en LatAm te deja vivir con lujo a precio de comodidad europea.** Mérida o Floripa con $7.000 neto = vida de lujo real. Esa es la jugada inteligente mientras construyes patrimonio.
+
+### El "buen colchón" — escalera de patrimonio (tienes 32, cumples 33)
+Asumiendo inversión diversificada (fondos indexados globales) y la **regla del 4%** (puedes retirar ~4% del capital al año de forma sostenible). **Clave: tu ubicación base define el número** (geoarbitraje lo puede partir a la mitad).
+
+| Meta | Capital | Qué te permite |
+|------|:---:|----------------|
+| **Respiro / runway** | $30-50k | 1-2 años de gastos en LatAm sin ingreso. Soltar Worley con red. |
+| **Coast** | $300-400k | El compounding solo te lleva a FI con los años; puedes empezar a aflojar. |
+| **Semi-FI (base cubierta)** ⭐ | **$750k-1M** | El 4% cubre tu vida base (~$30-40k/año). Trabajas liviano solo para el lujo. **Esto es "bajar el ritmo".** |
+| **FI con lujo** | ~$2.1M | El 4% cubre $84k/año (lujo tranquilo completo). No trabajar nunca más. |
+
+**Timeline aproximado:** ahorrando ~$45k/año (posible ganando $6-7k y viviendo con ~$2.5k en LatAm) e invirtiendo al ~7% anual:
+- **Coast (~$350k):** ~7 años → **~40 años**.
+- **Semi-FI (~$800k):** ~11-12 años → **~44-45 años**.
+
+> Calza exacto con tu instinto: **trabajar arduo en los 30, bajar el ritmo a mitad de los 40.** Y el geoarbitraje es la palanca: base LatAm semi-FI ~$750k; base Europa ~$1.5M+. Dónde vives define cuánto necesitas.
 
 ### Estrategia (5 reglas)
 1. **Usa Worley como trampolín, no como techo.** Mientras lo tengas, **ahorra/invierte casi todo el ingreso portátil** y construye colchón + capital. Evita el *lifestyle creep* (inflar gastos al ritmo del ingreso) ahora.
