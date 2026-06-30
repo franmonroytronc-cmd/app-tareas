@@ -261,7 +261,47 @@ Nivel "cómodo que funciona y es lindo" (no mochilero, no lujo). USD/mes. Incluy
 
 ---
 
-## 9. Próximos pasos
+## 9. Número de libertad y estrategia de lujo
+
+### Punto de partida
+- **Worley hoy:** ~$3.330/mes + doble sueldo (~$6.600/año) + IPC ×2/año + reajuste por desempeño (0% / 3% normal / 5%+ si negocia o sube de nivel) → **~$3.880/mes promediado**. Es el **piso seguro / puente**.
+- **Motores portátiles (meta propia):** consultoría + EKo + media buyer, ~$2.000-3.000 combinados → total objetivo **>$5.000/mes**.
+
+### Los tiers (neto/mes, en solitario, base LatAm)
+| Nivel | Neto/mes | Qué te da |
+|-------|:---:|-----------|
+| **Base cómoda** | $2.500-3.000 | Vida linda que "funciona" (ya cubierto por los presupuestos). |
+| **Tranquilidad** | $4.000-5.000 | Cómodo + ahorro 20-30% + colchón + algún gusto. |
+| **Lujo regular** ⭐ | **$6.500-8.000** | Restaurantes, spa/masajes frecuentes, hoteles lindos, 2-3 viajes business/año, sin mirar la cuenta. |
+| **Lujo holgado** | $10.000+ | Estilo de vida premium constante + inversión fuerte. |
+
+### Recomendación: ~**$7.000/mes neto** (base LatAm) = tu "lujo tranquilo"
+Repartido sano:
+- **~$2.800** vida base (linda, dog-friendly)
+- **~$1.700** lujo/experiencias (restaurantes, spa, escapadas, business class amortizado)
+- **~$1.500** ahorro/inversión (el verdadero "fondo de libertad")
+- **~$1.000** impuestos + imprevistos
+
+> En **base europea** (España/Portugal), el mismo estilo sube a **~$8.500-9.000/mes** (lujo más caro).
+
+### El truco que cambia todo: **geoarbitraje del lujo**
+El lujo cuesta 2-3× menos en LatAm/Asia que en Europa:
+| | LatAm | Europa |
+|---|---|---|
+| Masaje 1h | $25-40 | $70-120 |
+| Cena fina (1 pers.) | $25-50 | $60-120 |
+→ **Basarte en LatAm te deja vivir con lujo a precio de comodidad europea.** Mérida o Floripa con $7.000 neto = vida de lujo real. Esa es la jugada inteligente mientras construyes patrimonio.
+
+### Estrategia (5 reglas)
+1. **Usa Worley como trampolín, no como techo.** Mientras lo tengas, **ahorra/invierte casi todo el ingreso portátil** y construye colchón + capital. Evita el *lifestyle creep* (inflar gastos al ritmo del ingreso) ahora.
+2. **Diversifica los 3 motores** para que ninguno sea punto único de falla.
+3. **Separa cash flow de patrimonio.** Parte del excedente va a un **fondo de libertad** (inversión) que genere ingreso pasivo. El lujo sostenible es el que pagan tus **ingresos recurrentes sin tocar el ahorro** — y el lujo definitivo es no depender de seguir moliendo.
+4. **Geoarbitraje del lujo:** vive donde el lujo es barato, gana en USD/EUR.
+5. **Define tu "lifestyle ceiling" consciente** — un tope de gasto elegido a propósito, para que el excedente engorde libertad y no se evapore.
+
+---
+
+## 10. Próximos pasos
 - [x] Confirmar raza de Vitto (kiltro) y Rosa (pitbull×bóxer → cierra Dubái/Tailandia/Malasia/Australia)
 - [ ] Elegir 1-2 finalistas para profundizar a nivel ciudad (¿Mérida/Pto. Escondido? ¿Floripa? ¿Las Palmas?)
 - [ ] Empezar el pilar #2: plan para que EKo opere sin ti (lo que de verdad desbloquea todo)
