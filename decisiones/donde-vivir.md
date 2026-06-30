@@ -149,6 +149,8 @@ Puntaje 1-5 por criterio × peso, normalizado a /100. **El número orienta, no d
 - Mi sueño no es "Australia", es **libertad/opcionalidad**; Australia es una muestra… y en el scorecard queda **#10**, no por mala, sino porque choca con mis no-negociables (perros + huso con Chile).
 - **Soy equilibrado: playa/comodidad + montaña/aventura** (montañismo, deporte, parques, guía de montaña). Esto tiene una consecuencia enorme: **Chile/Parral ya alimenta mi lado aventurero como pocos lugares del mundo** (Andes, volcanes, Patagonia, parques). Es decir, mi *base* ya me da la montaña; la *órbita* solo necesita darme la playa/trópico/cultura que me falta. → Refuerza el modelo "base en Chile + muestreo afuera", y relativiza la urgencia de mudarme: gran parte de lo que amo ya lo tengo en casa.
 - La aventura reordena el muestreo: **Perú, Argentina, Ecuador y Bolivia suben fuerte** (Andes/volcanes/Patagonia de clase mundial). Bolivia deja de ser "incómoda" y pasa a ser un destino-joya para mi lado montañista.
+- **Qué le falta a Chile (= qué debe dar la órbita):** Chile tiene mar **frío** (corriente de Humboldt), no tiene trópico, ni selva, ni agua tibia, ni cultura caribeña. Por eso el complemento perfecto es **Caribe + Brasil + playa cálida + selva/buceo** — exactamente lo que mi base no puede darme. La montaña la tengo en casa; salgo a buscar el trópico.
+- **Perú icónico ya hecho** (Lima, Cusco ×2, Huayhuash). El muestreo apunta a lo nuevo, no a repetir.
 - **El factor perros fue el mayor discriminador:** hundió a Australia y Bali casi por sí solo.
 - El **Tier 1 es "aburrido pero correcto"**: América + España. Ganan en lo que de verdad pesa.
 - **España es el mejor "puente a Europa"**: junta vibra europea + #1 tolerancia + perros fáciles + mismo idioma; su único costo real es distancia/huso.
@@ -260,19 +262,20 @@ La jugada más inteligente para arrancar: viajes de **~3 semanas** a destinos li
 
 > Idea: elegir **3-4 lugares "ricos"** como refugios recurrentes para escaparte temporadas. Eso ya *es* el perfil viajero, sin mudarte.
 
-### Plan Fase 0 concreto — 4 viajes 2026 (~3 semanas c/u, perros en base)
-Diseñados para alimentar tu lado **playero Y aventurero**, alineados a la mejor época:
+### Plan Fase 0 concreto — 4 viajes (~3 semanas c/u, perros en base)
+**Tesis:** Chile ya me da montaña/frío/Andes. La órbita debe darme lo que Chile NO tiene: **agua cálida, trópico, selva, Caribe, cultura afro-latina.** (Nota: Perú icónico ya hecho — Lima, Cusco ×2, Huayhuash con Kari.)
 
-| Viaje | Combina | Mejor época | Presupuesto (vuelo + 3 sem) |
-|-------|---------|-------------|:---:|
-| 🇵🇪 **Perú** — Lima + Cusco/Valle Sagrado + **Huaraz (Cordillera Blanca)** | Gastronomía + cultura + **alta montaña** | May-Sep (seca) | ~$2.000-3.000 |
-| 🇦🇷 **Argentina** — **Patagonia (El Chaltén/Fitz Roy)** + Bariloche + Mendoza | **Trekking clase mundial** + lagos + vino | Dic-Mar | ~$2.000-3.000 |
-| 🇨🇴 **Colombia** — Medellín + Cartagena + **Sierra Nevada/Tayrona** | Playa caribe + nómada + selva/montaña | Dic-Mar o Jul-Ago | ~$2.000-2.800 |
-| 🇪🇨 **Ecuador** — Quito + **Cotopaxi/Chimborazo** + Baños + costa | **Volcanes/montañismo** + aventura + playa | Jun-Sep | ~$2.000-3.500 |
+| Viaje | Lo que Chile NO tiene | Mejor época | Presupuesto (vuelo + 3 sem) |
+|-------|------------------------|-------------|:---:|
+| 🇧🇷 **Brasil** — Nordeste (Bahia/Pipa/Jericoacoara) + Río | **Playa cálida + cultura afro-brasileña + portugués** | Sep-Mar | ~$2.000-3.000 |
+| 🇨🇴 **Colombia** — Cartagena/Tayrona + San Andrés + Medellín | **Caribe + selva + hub nómada** | Dic-Mar / Jul-Ago | ~$2.000-2.800 |
+| 🇲🇽 **México** — Yucatán (cenotes + arrecife/buceo) + Oaxaca | **Caribe + buceo + cultura riquísima** | Nov-Abr | ~$2.500-3.500 |
+| 🇪🇨 **Ecuador** — Galápagos + costa | **Vida marina única + playa tibia** | Jun-Sep / Dic-Ene | ~$2.500-4.000 (Galápagos sube) |
 
-- **Alt aventura pura:** 🇧🇴 Bolivia (Huayna Potosí 6.088m + Uyuni), ~$1.200-2.000 — el más barato y épico para tu lado montañista.
-- **Costo total año de muestreo:** ~**$8-11k** = trivial frente a tu ingreso, altísimo retorno en autoconocimiento.
+- **Alt nuevas-aventuras (distintas a la montaña chilena):** 🇧🇴 Bolivia altiplano/Uyuni; 🇵🇦/🇨🇷 selva + dos océanos; islas del Caribe (buceo).
+- **Costo total año de muestreo:** ~**$9-13k** = trivial frente a tu ingreso, altísimo retorno en autoconocimiento.
 - **Regla:** deja la base (EKo + perros) cubierta antes de cada salida; vuelve, procesa, decide. Cada viaje es un test de "¿me veo viviendo acá una temporada?".
+- **Por dónde empezar:** **Brasil Nordeste** — junta los 4 "faltantes" de Chile (agua cálida + trópico + cultura nueva + idioma) en un solo viaje.
 
 ### Los 6 pilares a construir
 1. **Motor financiero portátil** — ingresos en divisa fuerte (USD/EUR) desacoplados de tu presencia física: EKo operando sin ti, media buying, consultoría. + colchón de "libertad" (6-12 meses de gastos). Geoarbitraje: ganar fuerte, gastar en destinos accesibles.
