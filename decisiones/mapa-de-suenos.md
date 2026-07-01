@@ -34,7 +34,7 @@ Lo que Chile ya te da en casa, llevado a las grandes ligas del mundo:
 - **Alaska / Canadá** (Denali, Rockies) — naturaleza salvaje a gran escala.
 - *Cercanos (ya en tu patio):* Aconcagua (ARG), Patagonia, volcanes andinos.
 
-### 🌊 Hilo Trópico / Agua cálida — lo que Chile NO te da
+### 🌊 Hilo Trópico / Agua cálida — lo que Chile NO te da ⬅️ **PRIORIDAD ACTUAL**
 El complemento confirmado (Cuba lo validó):
 - **Caribe** — Cuba ✅, Colombia, México (Yucatán/arrecife), R. Dominicana, San Andrés, islas.
 - **Sudeste asiático** — Tailandia, Bali, Filipinas, Vietnam (playas + buceo + bienestar + barato).
@@ -42,6 +42,18 @@ El complemento confirmado (Cuba lo validó):
 - **Polinesia / Pacífico** — Tahití, Fiyi, Maldivas (caro, bucket-list).
 - **Brasil Nordeste** — playa cálida + cultura afro + portugués.
 - **Galápagos / Gran Barrera de Coral** — vida marina única.
+
+#### 🧘 Momento actual: agotamiento mental → modo RESTAURACIÓN
+No busco expedición ni itinerario lleno; busco **cálido + lento + alegre + baja logística**. El escape como cura, no como logro. Criterios: calor, mar tibio, ritmo pausado, seguro, poca conexión de vuelos, ambiente de alegría.
+
+**Top picks restauradores (ordenados por encaje con "alegría + vivir lento"):**
+- 🇧🇷 **Bahía, Brasil** (Morro de São Paulo / Boipeba / Caraíva) ⭐ — la **alegría** afro-brasileña es literalmente lo que pediste; islas sin autos, súper lentas, mar tibio, portugués. *El match emocional más directo.*
+- 🇨🇴 **San Andrés / Providencia** — isla caribeña lenta, "mar de siete colores", buceo excelente, tranquila.
+- 🇲🇽 **Holbox / Bacalar** — Holbox sin autos, bioluminiscencia, tiburón ballena; Bacalar = laguna de siete colores. Lento y mágico + cenotes para bucear.
+- 🌏 **Sudeste asiático** (Koh Lanta/Koh Tao TH, Siargao PH, Amed/Nusa Bali) — buceo de clase mundial + bienestar barato; contra: vuelo largo (mejor si es estadía de 3-4 sem).
+
+#### 🐠 Idea: bucear como meditación activa
+El buceo es de las experiencias más restauradoras que existen: respiración lenta, ingravidez, silencio. Para una mente cansada es casi terapia. **Si aún no tienes el Open Water, un viaje donde te certificas** (Koh Tao es el más barato del mundo; Bahía/Caribe también) une tu interés por el buceo con tu necesidad actual de descanso.
 
 ### 🏛️ Hilo Cultura / Ciudad — "cosas que funcionan y son lindas" al extremo
 - **Japón** — orden + belleza + montaña + comida; el "funciona perfecto" llevado al arte.
