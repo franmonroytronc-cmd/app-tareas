@@ -394,11 +394,14 @@ El miedo no es al monto, es a la **impredecibilidad** (el sueldo llega solo; el 
 - La escasez se transformó en **generosidad** (ayudo porque sé lo que es que falte) → virtud, no herida.
 - **Trampa a cuidar:** cuando "proveer al círculo" se mezcla con escasez, *"suficiente" se vuelve un blanco móvil* — el número sube conmigo y nunca me siento lo bastante seguro para saltar. Antídoto: **definir "suficiente" explícitamente.**
 - **Reencuadre:** mi libertad no compite con proveer — la vuelve **sostenible**. Atarme a Worley "por ellos" es el punto único de falla; el motor propio me deja proveer más y más durable. De taza vacía no se sirve.
-- **Ejercicio — 3 números + Fondo Círculo (convertir obligación difusa en línea concreta):**
-  1. **Mi piso** (yo + perros, Parral, sin lujo): ~$1.200-1.500
-  2. **Aporte círculo** (¿quién exactamente? ¿cuánto/mes? ¿ongoing o red de seguridad?): $______
+- **Ejercicio — 3 números + Fondo Círculo (RESUELTO con números reales):**
+  - **Círculo = mamá + casa (Kari, Vitto, Rosa, yo).**
+  1. **Casa** (yo + Kari + 2 perros, Parral, supervivencia): ~$1.300-1.800
+  2. **Aporte mamá:** **$200/mes** (concreto y acotado)
   3. **Mi vida cómoda:** ~$2.500-3.000
-  → **Número seguro para soltar Worley = piso + aporte círculo** (los no-negociables). Casi seguro < sueldo Worley → el salto es más seguro de lo que el miedo dice, *incluso* incluyendo a los míos.
+  → **PISO SEGURO REAL (todos cuidados) = ~$1.500-2.000/mes.**
+  - **Comparación reveladora:** piso seguro (~$1.700) ≈ **la MITAD** del sueldo Worley (~$3.880), y **≤ mi meta de ingreso portátil ($2.000-3.000)**. Conclusión: *"en verdad no es tanto más"* — el salto es alcanzable, no imposible. El miedo pedía reemplazar $3.880; la realidad pide ~$1.700.
+  - *Variable:* el número de "la casa" flexiona según se resuelva el tema Kari (si fuera solo yo + perros, baja aún más).
 
 ---
 
