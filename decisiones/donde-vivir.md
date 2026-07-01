@@ -378,6 +378,18 @@ Orden en que conviene poner cada peso (de abajo hacia arriba, llenas un nivel an
 - **Worley me da un envase, no el talento.** Los talentos (ingeniería, EKo, media buying, montaña) ya son míos. La pregunta no es "¿soy capaz?", es "¿confío en mí para soltar el envase?".
 - **Gatillo objetivo (pre-decidir en frío):** *Dejo Worley cuando el ingreso portátil cubra mi vida base ___ meses seguidos Y tenga ___ de colchón.* Así el yo cansado del futuro solo honra lo que el yo lúcido decidió.
 
+#### El vértigo principal = el DINERO (identificado)
+El miedo no es al monto, es a la **impredecibilidad** (el sueldo llega solo; el ingreso propio hay que generarlo). Antídoto: predictibilidad + colchones, no "ganar más".
+
+- **Reencuadre madre:** mi "número de no me hundo" **NO** es el sueldo de Worley (~$3.880). Es mi **piso de supervivencia** (vida básica Parral + perros, sin lujo) ≈ **$1.200-1.500**. El resto de Worley es comodidad, no supervivencia. El punto de seguridad está mucho más cerca de lo que el miedo dice.
+- **5 barandas contra el vértigo del dinero:**
+  1. **Colchón** = convierte incertidumbre en meses garantizados ("aunque gane $0, tengo 12-18 meses"). El antídoto #1.
+  2. **Salida en dial, no interruptor** = nunca un mes en $0; solapar Worley con ingreso portátil creciente.
+  3. **Ingreso recurrente** (EKo suscripción/mayorista, consultoría por retainer) → se *siente* como sueldo.
+  4. **Período de prueba con datos** = soltar recién cuando el portátil cubrió mi piso X meses seguidos. Datos > fe.
+  5. **Diversificación** = 3 motores; si uno baja, otros sostienen.
+- **Reencuadre poderoso:** el sueldo *parece* seguro pero es **un único punto de falla** — un empleador, una decisión, y se acaba (despido/reestructuración). La "seguridad" del sueldo es real pero **prestada y revocable**. Ingreso diversificado propio = más resiliente, no menos.
+
 ---
 
 ## 10. Próximos pasos
