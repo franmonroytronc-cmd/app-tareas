@@ -390,6 +390,16 @@ El miedo no es al monto, es a la **impredecibilidad** (el sueldo llega solo; el 
   5. **Diversificación** = 3 motores; si uno baja, otros sostienen.
 - **Reencuadre poderoso:** el sueldo *parece* seguro pero es **un único punto de falla** — un empleador, una decisión, y se acaba (despido/reestructuración). La "seguridad" del sueldo es real pero **prestada y revocable**. Ingreso diversificado propio = más resiliente, no menos.
 
+#### El matiz: proveer al círculo + escasez (el 90% racional / 10% historia)
+- La escasez se transformó en **generosidad** (ayudo porque sé lo que es que falte) → virtud, no herida.
+- **Trampa a cuidar:** cuando "proveer al círculo" se mezcla con escasez, *"suficiente" se vuelve un blanco móvil* — el número sube conmigo y nunca me siento lo bastante seguro para saltar. Antídoto: **definir "suficiente" explícitamente.**
+- **Reencuadre:** mi libertad no compite con proveer — la vuelve **sostenible**. Atarme a Worley "por ellos" es el punto único de falla; el motor propio me deja proveer más y más durable. De taza vacía no se sirve.
+- **Ejercicio — 3 números + Fondo Círculo (convertir obligación difusa en línea concreta):**
+  1. **Mi piso** (yo + perros, Parral, sin lujo): ~$1.200-1.500
+  2. **Aporte círculo** (¿quién exactamente? ¿cuánto/mes? ¿ongoing o red de seguridad?): $______
+  3. **Mi vida cómoda:** ~$2.500-3.000
+  → **Número seguro para soltar Worley = piso + aporte círculo** (los no-negociables). Casi seguro < sueldo Worley → el salto es más seguro de lo que el miedo dice, *incluso* incluyendo a los míos.
+
 ---
 
 ## 10. Próximos pasos
