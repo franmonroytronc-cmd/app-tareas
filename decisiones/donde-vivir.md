@@ -369,6 +369,15 @@ Orden en que conviene poner cada peso (de abajo hacia arriba, llenas un nivel an
 
 **Cómo el plan acelera la meta:** ahorrando $45k/año llegas a semi-FI (~$800k) a los ~44-45. Si en la "fase ardua" de los 30 empujas a **$55-60k/año**, recortas **2-4 años**. Y cada dólar de gasto base que bajas (geoarbitraje) baja tu meta total 25× ese monto.
 
+### El salto emocional: soltar Worley (puente, no abismo)
+> El nudo de fondo de todo este proyecto no es geográfico: es **aprender a dejar Worley para vivir de mis talentos.** El agotamiento actual es "pausa y vuelvo", pero debajo está esta incomodidad sana.
+
+- **La incomodidad = estar en un umbral, no una alarma.** Si no incomodara, no sería un salto real.
+- **No es salto al vacío: es el puente que ya estoy construyendo.** El puerto (EKo), el colchón, los 3 motores y el número de libertad *son* la infraestructura que vuelve el salto un paso obvio, no valiente. Construir hasta que soltar sea evidente.
+- **Salir de Worley es un dial, no un interruptor:** empleado → medio tiempo → **consultor externo (incluso para Worley)** → independiente total. Puedo soltar la identidad de "apatronado" sin soltar de golpe el ingreso.
+- **Worley me da un envase, no el talento.** Los talentos (ingeniería, EKo, media buying, montaña) ya son míos. La pregunta no es "¿soy capaz?", es "¿confío en mí para soltar el envase?".
+- **Gatillo objetivo (pre-decidir en frío):** *Dejo Worley cuando el ingreso portátil cubra mi vida base ___ meses seguidos Y tenga ___ de colchón.* Así el yo cansado del futuro solo honra lo que el yo lúcido decidió.
+
 ---
 
 ## 10. Próximos pasos
